@@ -96,6 +96,4 @@ for row in range(GRID_ROWS):
         draw_circle(x, y)
 
 screen.onclick(on_click)
-
-# Start the game
 screen.mainloop()
